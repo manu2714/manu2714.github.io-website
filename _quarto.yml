@@ -1,0 +1,45 @@
+project:
+  type: website
+
+website:
+  title: "Manuel Morales"
+  body-header: |
+    ![](facu.png)
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: 
+    left: 
+      - icon: bar-chart
+        text: grupo investigación
+        href: https://investigacion.us.es/sisius/sis_depgrupos.php?ct=&cs=&seltext=CTS-153&selfield=CodPAI
+    center: "Made with ❤️ and Quarto"
+    right:
+      - icon: github
+        text: Github
+        href: https://github.com/manu2714
+      - icon: us1
+        text: sisius
+        href: https://investigacion.us.es/sisius/sis_showpub.php?idpers=1694
+      - icon: US1.png
+        text: bank
+        href: http://www.us.es
+      - icon: US1
+        text: orcid
+        href: https://orcid.org/0000-0002-2690-2542
+  back-to-top-navigation: true
+  navbar:
+    logo: "US2.png"
+    right:
+      - text: Inicio
+        href: index.qmd
+    center:
+    brand: "facu.png"
+      
+format:
+  html:
+    backgroundcolor: "#eaffe3"
+    fontcolor: "darkgreen"
+    linkcolor: "black"
+    mainfont: "monospace"
+    fontsize: 18px
+    theme: [materia, styles.scss]
+

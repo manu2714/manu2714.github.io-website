@@ -1,0 +1,7 @@
+library(usethis)
+usethis::use_git_config(user.name="manu2714",user.mail="morales@us.es")
+gitcreds::gitcreds_set()
+usethis::git_sitrep()
+usethis::use_git()
+usethis::use_github()
+usethis::use_readme()
