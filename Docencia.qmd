@@ -5,11 +5,11 @@ editor: visual
 
 # **CURSO 2025/26**
 
--   Diseño y análisis de datos II
+-    Diseño y análisis de datos II
 
--   Trabajos fin de grado
+-    Trabajos fin de grado
 
-# ASIGNATURAS IMPARTIDAS EN OTROS CURSOS
+# **ASIGNATURAS IMPARTIDAS EN OTROS CURSOS**
 
 -   Métodos aplicados en Psicología
 
@@ -21,7 +21,7 @@ editor: visual
 
 -   Metodología observacional
 
-# CURSOS DE DOCTORADO IMPARTIDOS
+# **CURSOS DE DOCTORADO IMPARTIDOS**
 
 -   Métodos cuantitativos en neuropsicología
 
