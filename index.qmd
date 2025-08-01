@@ -1,6 +1,5 @@
 ---
 title: "Manuel Morales"
-logo: facu.png
 subtitle: "Profesor Titular Universidad de Sevilla"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: cadiz.jpg
@@ -9,7 +8,7 @@ about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
     - icon: bar-chart
-      text: grupo investigación
+      text: grupo de investigación
       href: https://investigacion.us.es/sisius/sis_depgrupos.php?ct=&cs=&seltext=CTS-153&selfield=CodPAI
     - icon: github
       text: Github
@@ -17,7 +16,7 @@ about: # https://quarto.org/docs/websites/website-about.html
     - icon: us1
       text: sisius
       href: https://investigacion.us.es/sisius/sis_showpub.php?idpers=1694
-    - icon: bank
+    - icon: us2
       text: US
       href: http://www.us.es
     - icon: globe
@@ -27,10 +26,11 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 Pertenezco al departamento de Psicología Experimental (Área de Metodología de las Ciencias del Comportamiento) de la Universidad de Sevilla desde 1986. Mi trabajo de investigación se ha centrado en el análisis de datos longitudinales y, en particular, el análisis de secuencias de conducta. También he colaborado con distintos grupos de investigación de la Psicología donde mi participación ha estado relacionada con el análisis de datos. 
 
-## Educación
+## Formación
 
 - Doctor en Psicología \| Universidad de Sevilla \|  1992
 - Profesor Titular Metodología de las Ciencias del Comportamiento\| 1996
+- Licenciado en Ciencias y Técnicas Estadísticas \| Universidad de Sevilla \| 2014
 
 ## Proyectos de investigación recientes
 
@@ -42,17 +42,17 @@ Pertenezco al departamento de Psicología Experimental (Área de Metodología de
 
 ## Publicaciones recientes
 
-- Cano Crespo, Almudena, Moreno García, Inmaculada, Servera Barceló, Mateu, Morales Ortiz, Manuel:
-Cognitive Disengagement Syndrome and Child Sleep Problems in ADHD, Anxiety and Depression. En: *Healthcare*. 2023. Vol. 11. Núm. 14. https://doi.org/10.3390/healthcare11142022
+- Cano Crespo, Almudena, Moreno García, Inmaculada, Servera Barceló, Mateu, Morales Ortiz, Manuel. (2023)
+Cognitive Disengagement Syndrome and Child Sleep Problems in ADHD, Anxiety and Depression. *Healthcare*, *Vol. 11*(14). https://doi.org/10.3390/healthcare11142022
 
-- Ruiz Martínez, Francisco, Morales Ortiz, Manuel, Gomez Gonzalez, Carlos Maria:
-Late N1 and postimperative negative variation analysis depending on the previous trial history in paradigms of increasing auditory complexity. En: *Journal of Neurophysiology*. 2022. Vol. 127. Núm. APRIL. Pag. 1240-1252. 10.1152/jn.00313.2021
+- Ruiz Martínez, Francisco, Morales Ortiz, Manuel, Gómez Gonzalez, Carlos María. (2022).
+Late N1 and postimperative negative variation analysis depending on the previous trial history in paradigms of increasing auditory complexity. En: *Journal of Neurophysiology*, *Vol. 127*. Núm. APRIL. Pag. 1240-1252. 10.1152/jn.00313.2021
 
-- Moreno García, Inmaculada, Morales Ortiz, Manuel:
-The external validity of Sluggish Cognitive Tempo versus Inattention in Behavioral, Social Interaction, and Academic Performance Measures. En: *Psicothema*. 2022. Vol. 34. Núm. 3. Pag. 471-478. https://doi.org/10.7334/psicothema2021.583
+- Moreno García, Inmaculada, Morales Ortiz, Manuel, Cano Crespo, Almudena, Servera Barceló, Mateu.(2022).
+The external validity of Sluggish Cognitive Tempo versus Inattention in Behavioral, Social Interaction, and Academic Performance Measures. En: *Psicothema, Vol. 34*(3). Pag. 471-478. https://doi.org/10.7334/psicothema2021.583
 
-- Morales Ortiz, Manuel, Fernández , Aarón:
-Assessment of Cognitively Stimulating Activity in a Spanish Population. En: *Assessment*. 2020. Vol. 27. Núm. 6. Pag. 1310-1329. https://doi.org/10.1177/1073191118774620
+- Morales Ortiz, Manuel, Fernández , Aarón (2020).
+Assessment of Cognitively Stimulating Activity in a Spanish Population. En: *Assessment*. 2020. *Vol. 27*(6). Pag. 1310-1329. https://doi.org/10.1177/1073191118774620
 
-- Morales Ortiz, Manuel, Peña Cardenas, Fabiola:
-DIF in the Spanish Version of the Verbal Selective Reminding Test Using Samples From Hispanics in the United States, Mexicans, and Spaniards. En: *Frontiers in Psychology*. 2019. Vol. 10. Pag. 1-8. https://doi.org/10.3389/fpsyg.2019.02687
+- Morales Ortiz, Manuel, Peña Cárdenas, Fabiola.(2019).
+DIF in the Spanish Version of the Verbal Selective Reminding Test Using Samples From Hispanics in the United States, Mexicans, and Spaniards. En: *Frontiers in Psychology, Vol. 10*. Pag. 1-8. https://doi.org/10.3389/fpsyg.2019.02687
