@@ -28,7 +28,6 @@ website:
     right:
       - text: Inicio
         href: index.qmd
-      - Docencia.qmd
       - Investigación.qmd
 format:
   html:
